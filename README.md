@@ -15,3 +15,5 @@ pip3 install pyserial
 * Install microgear
 
 pip3 install microgear
+
+For more information, refer to https://blog.netpie.io/archives/3323
